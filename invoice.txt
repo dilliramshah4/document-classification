@@ -1,0 +1,3 @@
+Invoice No: INV12345
+Date: 12/02/2024
+Total: 50.50
